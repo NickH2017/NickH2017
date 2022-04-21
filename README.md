@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nicolas Hernandez</h1>
 <h3 align="center">A student developer from Florida at USF</h3>
 
-- 🔭 I’m currently working on **Stock Tracker**
+- 🔭 I’m currently working on **Full-Stack Developer Training**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **React js**
+- 👯 I’m looking to collaborate on **Non-Profit Work**
 
 - 💬 Ask me about **Anything**
 
