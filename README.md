@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Hernandez</h1>
-<h3 align="center">A student developer from Florida at USF</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🔭 I’m currently working on **Full-Stack Developer Training**
 
